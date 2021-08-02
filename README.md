@@ -54,7 +54,15 @@
 <div align="center">
 
 ![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P1.PNG)
-
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P2.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P3.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P4.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P5.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P6.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P7.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P8.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P9.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P10.PNG)
   
 </div>
 
