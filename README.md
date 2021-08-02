@@ -16,11 +16,11 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - l.
+  - Comprender el Teorema de Máxima Trasnferencia de Potencia en circuitos eléctricos y electrónicos mediante la realización de cálculos y mediciones con el fin de percatarnos la potencia en los diferentes valores de RL.
  
  **OBJETIVOS ESPECÍFICOS**
-  - to.
-  - o.
+  - Aplicar los conocimientos de La Ley de Ohm mediante la adaptación de fórmulas para el conocimiento de las potencias.
+  - Analizar el circuito electrónico mediante la realización de una simulación con el fin de con los diferentes cálculos se conozca cómo influye el valor de las resistencias para la máxima transferencia de potencia.
 
 # **2. MARCO TEÓRICO**
 
@@ -45,7 +45,7 @@
 ###### **4.1.1 Arme el circuito.**
 
 <div align="center">
-  
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/circuito.PNG)
   
 </div>
 
@@ -70,6 +70,10 @@
 
 <div align="center">
 
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/1.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/2.PNG)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/3.PNG)
+
 
   
 </div>
@@ -81,35 +85,22 @@
 
 <div align="center">
 
-  
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/4.PNG)
 
 </div>
 
 ###### **4.1.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-<div align="center">
-
-
-</div>
+Sí se cumple puesto que, R1 en este caso es la resistencia equivalente vista desde la terminal de salida utilizando el teorema de Thevenin. En dicho caso cuando ambas resistencias son iguales, es decir, R1=RL es cuando se produce la máxima transferencia de potencia.
 
 ###### **4.1.5 ¿Cuál fue la potencia máxima en RL?.**
 
-
-<div align="center">
-
-
-
-</div>
+La potencia máxima en RL es de 0.0465 W.
 
 
 ###### **4.1.6 ¿Para qué valor de RL se obtiene la MTP?.**
 
-
-<div align="center">
-
-
-
-</div>
+El valor de RL debe tender a ser igual a R1, en este caso, el más aproximado es de 1000 ohms.
 
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
@@ -124,7 +115,7 @@
 
 Se concluye que:
 
-- l.
+- El teorema de máxima potencia no es igual a un circuito de máxima eficacia. Esto solamente hace referencia a un circuito de Thévenin a su espalda teniendo así diferentes valores de RL a probar, el valor que más igualada esté a la R1 será el de máxima transferencia de potencia.
 - Para el teorema de la máxima transferencia de potencia se hace uso de los circuitos equivalentes que se desarrolló en el teorema de Thévenin como en el de Norton, debido a que el teorema dice que una resistencia de carga recibirá la máxima potencia de un circuito cuando la resistencia de la carga es exactamente igual a la resistencia de Thévenin, Norton.
 - l.
 
