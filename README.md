@@ -125,7 +125,7 @@
 Se concluye que:
 
 - l.
-- l.
+- Para el teorema de la máxima transferencia de potencia se hace uso de los circuitos equivalentes que se desarrolló en el teorema de Thévenin como en el de Norton debido a que el teorema dice que una resistencia de carga recibirá la máxima potencia de un circuito cuando la resistencia de la carga es exactamente igual a la resistencia de Thévenin, Norton.
 - l.
 
 # **8. BIBLIOGRAFÍA**
