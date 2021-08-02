@@ -45,6 +45,7 @@
 ###### **4.1.1 Arme el circuito.**
 
 <div align="center">
+
 ![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/circuito.PNG)
   
 </div>
