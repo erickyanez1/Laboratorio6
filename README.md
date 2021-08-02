@@ -53,6 +53,7 @@
 
 <div align="center">
 
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Simulacion_P1.PNG)
 
   
 </div>
