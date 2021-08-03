@@ -112,7 +112,7 @@ El valor de RL debe tender a ser igual a R1, en este caso, el más aproximado es
 
 # **6. VIDEO**
 
-- 
+- https://youtu.be/LXYcB_WBCwA
 
 # **7. CONCLUSIONES**
 
