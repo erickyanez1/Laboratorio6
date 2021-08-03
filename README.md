@@ -26,7 +26,8 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Teoria_1.png)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Teoria_2.png)
   
 </div>
   
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Material.png)
   
 </div>
 
@@ -106,7 +107,8 @@ El valor de RL debe tender a ser igual a R1, en este caso, el más aproximado es
 
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Error_1.png)
+![](https://github.com/erickyanez1/Laboratorio6/blob/main/IMG/Error_2.png)
 
 # **6. VIDEO**
 
@@ -118,6 +120,11 @@ Se concluye que:
 
 - El teorema de máxima potencia no es igual a un circuito de máxima eficacia. Esto solamente hace referencia a un circuito de Thévenin a su espalda teniendo así diferentes valores de RL a probar, el valor que más igualada esté a la R1 será el de máxima transferencia de potencia.
 - Para el teorema de la máxima transferencia de potencia se hace uso de los circuitos equivalentes que se desarrolló en el teorema de Thévenin como en el de Norton, debido a que el teorema dice que una resistencia de carga recibirá la máxima potencia de un circuito cuando la resistencia de la carga es exactamente igual a la resistencia de Thévenin, Norton.
-- l.
+- La potencia en la resistencia variable depende mucho del circuito equivalente de Thévenin , este teorema se basa en que por mas compleja que sea el circuito puede reducirse a uno con una fuente de voltaje y una resistencia serie, mediante la aplicación de Thévenin.
 
 # **8. BIBLIOGRAFÍA**
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+
+Rodríguez, F. P., Rogelio, Á., & Vacca, H. (2012). Obtención de máxima transferencia de potencia a una carga eléctrica por métodos de optimización. Visión electrónica, 6(2), 126-133.
+
